@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eugene (@eugenekoolman).
 - 👀 I’m interested in Computer Science.
-- 🌱 I’m currently learning PHP,Linux,Git.                                                                                                                                                                         l
+- 🌱 I’m currently learning PHP,Linux,Git.                                                                                                                 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
